@@ -2,7 +2,12 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        onyx: "#353839",
+        brandBlue: "#5D8EA4",
+      },
+    },
   },
   plugins: [],
 };
