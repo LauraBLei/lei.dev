@@ -1,4 +1,6 @@
 # lei.dev
-
-|Example one | Example two |
-|blob|Tompe |
+| Feature | Description |
+| --- | --- |
+| Example Feature | This feature does something for a specific reason. |
+| Example Feature | This feature does something for a specific reason. |
+| Example Feature | This feature does something for a specific reason. |
